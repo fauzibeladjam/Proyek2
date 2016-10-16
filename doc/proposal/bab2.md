@@ -11,7 +11,7 @@ berbasis web. CodeIgniter memudahkan developer untuk membuat aplikasi web dengan
 Basis data (database) adalah sekumpulan data yang saling berhubungan secara logis dan terorganisir dengan baik. Basis data merupakan salah satu komponen
 utama pendukung program aplikasi. Hampir semua program aplikasi yang melibatkan pengelolaan data dapat dipastikan menggunakan basis data sebagai tempat penyimpanan datanya.
 # 2.4	MySQL
-	MySQL adalah database yang menghubungkan scipt php menggunakan perintah query dan escaps character yang sama dengan php. MySQL mempunyai tampilan client
-	yang mempermudah dalam mengakses database dengan kata sandi untuk mengizinkan proses yang bisa dilakukan
+MySQL adalah database yang menghubungkan scipt php menggunakan perintah query dan escaps character yang sama dengan php. MySQL mempunyai tampilan client
+yang mempermudah dalam mengakses database dengan kata sandi untuk mengizinkan proses yang bisa dilakukan
 
 
